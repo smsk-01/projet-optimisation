@@ -1,4 +1,4 @@
-# Mini-Projet 5: Optimisation - L'enclos à moutons (The Sheep Enclosure)
+# Convex Optimisation - L'enclos à moutons (The Sheep Enclosure)
 
 ## Project Overview
 
