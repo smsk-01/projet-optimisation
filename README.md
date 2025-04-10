@@ -1,4 +1,4 @@
-# Convex Optimisation - L'enclos à moutons (The Sheep Enclosure)
+# Convex Optimisation - The Sheep Enclosure
 
 ## Project Overview
 
